@@ -1,10 +1,52 @@
 # Covid-19Tracker
-[https://covid-19tracker0.herokuapp.com/]
+
+[![Website Homepage](./assets/snapshot.png)](https://covid-19tracker0.herokuapp.com)
+
+## Stack
+
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Python](https://www.python.org/downloads/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Django](https://www.djangoproject.com/)
 
 ## Files-Structure
 
-### My Expertise and github both lack on structuring the files so here is the snapshot of files-structure >>>
-<img src="images/files-structure.PNG" />
-
-## Heroku Documentation 
-[https://devcenter.heroku.com/categories/reference"]
+```
+$PROJECT_ROOT
+├── LICENSE
+├── Pipfile.lock
+├── Procfile
+├── README.md
+├── admin.py
+├── apps.py
+├── assets
+│   └── snapshot.png
+├── backend
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── covid
+│   ├── admin.py
+│   ├── apps.py
+│   └── migrations
+│       └── 0001_initial.py
+├── manage.py
+├── migrations
+│   └── 0001_initial.py
+├── models.py
+├── requirements.txt
+├── static
+│   ├── css
+│   │   ├── mobile.css
+│   │   ├── new-style.css
+│   │   └── style.css
+│   └── js
+│       ├── charts.js
+│       ├── map-style.js
+│       └── script.js
+├── templates
+│   └── index.html
+├── tests.py
+├── urls.py
+└── views.py
+```
