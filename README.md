@@ -4,10 +4,10 @@
 
 ## Stack
 
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Python](https://www.python.org/downloads/)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Django](https://www.djangoproject.com/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.
+- [Python](https://www.python.org/downloads/) - Python is a high-level, interpreted, general-purpose programming language.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language.
+- [Django](https://www.djangoproject.com/) - Django is a Python-based web framework, free and open-source, that follows the model–template–views architectural pattern.
 
 ## Files-Structure
 
